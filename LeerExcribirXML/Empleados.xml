@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Empleados>
+    <empleado id="111">
+        <nombre>Paco</nombre>
+        <apellido>Mer</apellido>
+        <ciudad>Burgos</ciudad>
+    </empleado>
+
+    <empleado id="121">
+        <nombre>Aitor</nombre>
+        <apellido>Garcia</apellido>
+        <ciudad>Bilbao</ciudad>
+    </empleado>
+
+    <empleado id="1345">
+        <nombre>Laura</nombre>
+        <apellido>Fernandez</apellido>
+        <ciudad>Sevilla</ciudad>
+        <pais>España</pais>
+    </empleado>
+
+    <empleado id="345345">
+        <nombre>Marta</nombre>
+        <apellido>Jimenez</apellido>
+        <ciudad>Madrid</ciudad>
+    </empleado>
+</Empleados>
